@@ -1,12 +1,11 @@
 ---
- permalink: /
- title: "About me"
- excerpt: "About me"
- author_profile: true
- redirect_from: 
-   - /about/
-   - /about.html
- ---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 **Email:** Just concatenate my first name, yoelle, with the usual @ and then yahoo.com.  
 
