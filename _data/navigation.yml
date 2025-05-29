@@ -17,10 +17,10 @@ main:
  # - title: "Teaching"
  #   url: /teaching/    
     
- - title: "Biography"
-  url: /portfolio/
+ # - title: "Biography"
+ # url: /portfolio/
         
- - title: "Blog Posts"
+ - title: "Bio"
   url: /year-archive/
     
   - title: "CV"
