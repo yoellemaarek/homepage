@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find a full list of my publications in <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find a full list of my publications and patents in <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 <BR>
-<p><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 15px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; vertical-align: baseline; color: #4c4c4c; line-height: 24px;">FULL PUBLICATIONS</strong></p>
+<p><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 15px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; vertical-align: baseline; color: #4c4c4c; line-height: 24px;">PUBLICATIONS</strong></p>
 
 <strong>2020-todate</strong>
 <ol class="ol1" style="line-height: 19.6000003814697px;">
+<li class="li3"><a href="https://arxiv.org/abs/2505.15561"><em>Do RAG Systems Suffer From Positional Bias?</em></a> Florin Cuconasu, Simone Filice, Guy Horowitz, Yoelle Maarek and Fabrizio Silvestri. arXiv preprint, May 2024. </li>
 <li class="li3"><a href="https://arxiv.org/abs/2501.12789" target="_blank"><em>Generating Diverse Q&A Benchmarks for RAG Evaluation with DataMorgana,</em></a> Simone Filice, Guy Horowitz, David Carmel, Zohar Karnin, Liane Lewin-Eytan and Yoelle Maarek. LLM4Eval Workshop at WSDM'25, March 2025, Hannover, Germany.</li>
 <li class="li3"><a href="https://dl.acm.org/doi/10.1145/3626772.3657834" target="_blank"><em>The Power of Noise: Redefining Retrieval for RAG Systems, </em></a>Florin Cuconasu, Giovanni Trappolini, Federico Siciliano, Simone Filice, Cesare Campagnano, Yoelle Maarek, Nocola Tonellotto, and Fabrizio Silvestri. Proceedings of SIGIR'24, July 2024, Washington DC, USA.</li>
 <li class="li3"><em><a href="https://dl.acm.org/doi/10.1145/3626772.3657935" target="_blank">Old IR meets RAG</a></em>,&nbsp;Oz Huly, Idan Pogrebunsky, David Carmel, Oren Kurland and Yoelle Maarek. Short Paper in Proceedings of SIGIR'24, July 2024, Washington DC, USA.</li>
@@ -26,6 +27,7 @@ author_profile: true
 <ol class="ol1" style="line-height: 19.6000003814697px;" start="7">
 <li class="li3"><em>Alexa, Can You Help Me Shop?</em> Yoelle Maarek. Invited talk in Industry Track.&nbsp; In Proceedings of SIGIR'2019, July 2019, Paris, France</li>
 <li class="li3"><em>Alexa and her Shopping Journey</em>, Keynote Address, Yoelle Maarek. In Proceedings of CIKM&rsquo;2018, Turin, Italy, October 2018.</li>
+<li class="li3"><em><a href="http://glare2018.dei.unipd.it/paper/glare2018-paper4.pdf">Offline vs. online evaluation in voice product search</em></a>, Amir Ingber, Liane Lewin-Eytan, Alexander Libov, Yoelle Maarek and Eliyahu Osherovich. In Proc. 1st International Workshop on Generalization in Information Retrieval (GLARE 2018),Turin, Italy, October 2018.</li>
 <li class="li3"><em>Leveraging Crowdsourcing Data For Deep Active Learning An Application: Learning Intents in Alexa,</em>&nbsp;Jie Yang, Thomas Drake, Andreas Damianou and Yoelle Maarek.&nbsp;In Proceedings of The Web Conference (formerly WWW) 2018, Lyon, France, April 2018.</li>
 <li class="li3"><em>Mail Search: It&rsquo;s Getting Personal,&nbsp;</em>Yoelle Maarek. Keynote Address. In Proceedings of SIGIR'2017, Tokyo, Japan, August 2017.</li>
 <li class="li3"><em>Mailbox-Based vs. Log-Based Query Completion for Mail Search,&nbsp;</em>Michal Horovitz, Liane Lewin-Eytan, Alexander Libov, Yoelle Maarek and Ariel Ravi. In Proceedings of SIGIR'2017, (short paper), Tokyo, Japan, August 2017.</li>
