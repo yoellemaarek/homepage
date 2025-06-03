@@ -22,7 +22,8 @@ author_profile: true
 <li class="li3"><em>Why Do People Buy Seemingly Irrelevant Items in Voice Product Search?</em> David Carmel, Elad Haramaty, Arnon Lazerson, Liane Lewin-Eytan and Yoelle Maarek. In Proceedings of WSDM&rsquo;2020, Houston, TX, Jan 2020</li>
 </ol>
 
-<ol class="start=7">
+<strong>2010-2019</strong>
+<ol class="ol1" style="line-height: 19.6000003814697px;" start="7">
 <li class="li3"><em>Alexa, Can You Help Me Shop?</em> Yoelle Maarek. Invited talk in Industry Track.&nbsp; In Proceedings of SIGIR'2019, July 2019, Paris, France</li>
 <li class="li3"><em>Alexa and her Shopping Journey</em>, Keynote Address, Yoelle Maarek. In Proceedings of CIKM&rsquo;2018, Turin, Italy, October 2018.</li>
 <li class="li3"><em>Leveraging Crowdsourcing Data For Deep Active Learning An Application: Learning Intents in Alexa,</em>&nbsp;Jie Yang, Thomas Drake, Andreas Damianou and Yoelle Maarek.&nbsp;In Proceedings of The Web Conference (formerly WWW) 2018, Lyon, France, April 2018.</li>
