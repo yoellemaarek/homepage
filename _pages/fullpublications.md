@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 <strong>2020-todate</strong>
-<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="93">
+<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="94">
 <li class="li3"><a href="https://arxiv.org/abs/2505.15561"><em>Do RAG Systems Suffer From Positional Bias?</em></a> Florin Cuconasu, Simone Filice, Guy Horowitz, Yoelle Maarek and Fabrizio Silvestri. arXiv preprint, May 2024. </li>
 <li class="li3"><a href="https://arxiv.org/abs/2501.12789" target="_blank"><em>Generating Diverse Q&A Benchmarks for RAG Evaluation with DataMorgana,</em></a> Simone Filice, Guy Horowitz, David Carmel, Zohar Karnin, Liane Lewin-Eytan and Yoelle Maarek. LLM4Eval Workshop at WSDM'25, March 2025, Hannover, Germany.</li>
 <li class="li3"><a href="https://dl.acm.org/doi/10.1145/3626772.3657834" target="_blank"><em>The Power of Noise: Redefining Retrieval for RAG Systems, </em></a>Florin Cuconasu, Giovanni Trappolini, Federico Siciliano, Simone Filice, Cesare Campagnano, Yoelle Maarek, Nocola Tonellotto, and Fabrizio Silvestri. Proceedings of SIGIR'24, July 2024, Washington DC, USA.</li>
@@ -24,7 +24,7 @@ Anna Gottardi, Osman Ipek, Giuseppe Castellucci, Shui Hu, Lavina Vaz, Yao Lu, An
 </ol>
 
 <strong>2010-2019</strong>
-<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="84">
+<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="85">
 <li class="li3"><em>Alexa, Can You Help Me Shop?</em> Yoelle Maarek. Invited talk in Industry Track.&nbsp; In Proceedings of SIGIR'2019, July 2019, Paris, France</li>
 <li class="li3"><em>Alexa and her Shopping Journey</em>, Keynote Address, Yoelle Maarek. In Proceedings of CIKM&rsquo;2018, Turin, Italy, October 2018.</li>
 <li class="li3"><em><a href="http://glare2018.dei.unipd.it/paper/glare2018-paper4.pdf">Offline vs. online evaluation in voice product search,</a></em>, Amir Ingber, Liane Lewin-Eytan, Alexander Libov, Yoelle Maarek and Eliyahu Osherovich. In Proc. 1st International Workshop on Generalization in Information Retrieval (GLARE 2018),Turin, Italy, October 2018.</li>
@@ -66,7 +66,7 @@ Anna Gottardi, Osman Ipek, Giuseppe Castellucci, Shui Hu, Lavina Vaz, Yao Lu, An
 </ol>
 
 <strong>2000-2009</strong>
-<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="46">
+<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="47">
 <li class="li3"><em>Currents Trends in the Integration of Searching and Browsing,&nbsp;</em>A. Broder, Y. Maarek, K. Bharat, S. Dumais, S. Papa, J. Pedersen and P. Raghavan,&nbsp;<em>.</em>&nbsp;In Industry track at WWW&rsquo;2005, Chiba, Japan, May 2005.&nbsp;&nbsp;</li>
 <li class="li3"><em>Extending the XML Fragment Model to Support Querying over Annotated text,&nbsp;</em>A. Broder, Y.S. Maarek, Y. Mass and M. Mandelbrod. Third Edition of XML and IR Workshop, SIGIR 2004, &nbsp;Sheffield, UK, July 2004.&nbsp;</li>
 <li class="li3"><em>Using XML to Query XML,&nbsp;</em>A. Broder, Y. Maarek, M. Mandelbrod and Y. Mass. RIAO&rsquo;04, Avignon, France, April 2004.&nbsp;</li>
@@ -91,7 +91,7 @@ Anna Gottardi, Osman Ipek, Giuseppe Castellucci, Shui Hu, Lavina Vaz, Yao Lu, An
 </ol>
 
 <strong>1987-1999</strong>
-<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="25">
+<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="26">
 <li class="li3"><em>Morphological Disambiguation for Hebrew Search Systems,&nbsp;</em>David Carmel and Yoelle Maarek. NGITS&rsquo;99, Zikhron-Yaakov, Israel, July 1999.&nbsp;</li>
 <li class="li3"><em>Adding Support for Dynamic and Focused Search with Fetuccino,&nbsp;</em>I. Ben-Shaul, M. Herscovici, M. Jacovi, Y.S. Maarek, D. Pelleg, M. Shtalhaim, V. Soroka and S. Ur. WWW8, Toronto, Canada, May 1999.&nbsp;</li>
 <li class="li3"><em>The Shark-Search Algorithm: An Application Web Site Mapping,&nbsp;</em>M. Herscovici, M. Jacovi, Y.S. Maarek, D. Pelleg, M. Shtalhaim and S. Ur.&nbsp; WWW7, Brisbane, Australia, April 1998.&nbsp;</li>
