@@ -87,8 +87,9 @@ author_profile: true
 <li class="li3"><em>Allowing users to weight search terms,&nbsp;</em>Ronald Fagin and Yoelle S Maarek. RIAO&rsquo;2000, Paris, France, Apr 2000.&nbsp;</li>
 <li class="li3"><em>Knowledge Agents on the Web,&nbsp;</em>Yariv Aridor, David Carmel, Ronny Lempel, Aya Soffer and Yoelle S. Maarek&nbsp;<em>.</em>&nbsp;CIA&rsquo;2000, Boston, MA, Jul 2000. Also appeared in &ldquo;Lecture Notes in Artificial Intelligence&rdquo; 1860, Klush and Kerschberg eds., Springer, July 2000, pp 15-26.&nbsp;&nbsp;</li>
 </ol>
-<strong>2000-2009</strong>
-<ol class="ol1" style="line-height: 19.6000003814697px;" start="44">
+
+<strong>1987-1999</strong>
+<ol class="ol1" style="line-height: 19.6000003814697px;" start="65">
 <li class="li3"><em>Morphological Disambiguation for Hebrew Search Systems,&nbsp;</em>David Carmel and Yoelle Maarek. NGITS&rsquo;99, Zikhron-Yaakov, Israel, July 1999.&nbsp;</li>
 <li class="li3"><em>Adding Support for Dynamic and Focused Search with Fetuccino,&nbsp;</em>I. Ben-Shaul, M. Herscovici, M. Jacovi, Y.S. Maarek, D. Pelleg, M. Shtalhaim, V. Soroka and S. Ur. WWW8, Toronto, Canada, May 1999.&nbsp;</li>
 <li class="li3"><em>The Shark-Search Algorithm: An Application Web Site Mapping,&nbsp;</em>M. Herscovici, M. Jacovi, Y.S. Maarek, D. Pelleg, M. Shtalhaim and S. Ur.&nbsp; WWW7, Brisbane, Australia, April 1998.&nbsp;</li>
