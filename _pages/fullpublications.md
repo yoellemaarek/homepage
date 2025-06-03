@@ -61,6 +61,9 @@ author_profile: true
 <li class="li3"><em>IBM Research Activities at TREC.&nbsp;</em>E. Brown, D. Carmel, M. Franz, A. Ittycheriah, T. Kanungo, Y. Maarek, J. Scott McCarley, R. Mack, J. Prager, J. Smith, A. Soffer and J. &nbsp;Zien. In TREC Experiment and Evaluation in Information Retrieval. Ellen M. Voorhees and Donna K. Harman editors, MIT Press, 2006.</li>
 <li class="li3"><em>Let me know what you know,&nbsp;V. Soroka, M. Jacovi and Y. Maarek.</em>&nbsp;In &ldquo;Peer-to-peer computing: The evolution of a disruptive technology&rdquo;, R. Subramanian and B. Goodman eds., 2005.</li>
 <li class="li3"><em>Xeena for schema: creating XML documents with a coordinated grammar tree,&nbsp;</em>M. Sifer, F. Dau, H. Hasan, K. Crawford, Y.Peres and Y. Maarek.&nbsp;Int. J. Computational Science and Engineering, Vol. 5, No. 2, pp.127&ndash;146, 2010.</li>
+</ol>
+<strong>2000-2009</strong>
+<ol class="ol1" style="line-height: 19.6000003814697px;" start="7">
 <li class="li3"><em>Currents Trends in the Integration of Searching and Browsing,&nbsp;</em>A. Broder, Y. Maarek, K. Bharat, S. Dumais, S. Papa, J. Pedersen and P. Raghavan,&nbsp;<em>.</em>&nbsp;In Industry track at WWW&rsquo;2005, Chiba, Japan, May 2005.&nbsp;&nbsp;</li>
 <li class="li3"><em>Extending the XML Fragment Model to Support Querying over Annotated text,&nbsp;</em>A. Broder, Y.S. Maarek, Y. Mass and M. Mandelbrod. Third Edition of XML and IR Workshop, SIGIR 2004, &nbsp;Sheffield, UK, July 2004.&nbsp;</li>
 <li class="li3"><em>Using XML to Query XML,&nbsp;</em>A. Broder, Y. Maarek, M. Mandelbrod and Y. Mass. RIAO&rsquo;04, Avignon, France, April 2004.&nbsp;</li>
