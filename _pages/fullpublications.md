@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 <strong>2020-todate</strong>
-<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="91">
+<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="93">
 <li class="li3"><a href="https://arxiv.org/abs/2505.15561"><em>Do RAG Systems Suffer From Positional Bias?</em></a> Florin Cuconasu, Simone Filice, Guy Horowitz, Yoelle Maarek and Fabrizio Silvestri. arXiv preprint, May 2024. </li>
 <li class="li3"><a href="https://arxiv.org/abs/2501.12789" target="_blank"><em>Generating Diverse Q&A Benchmarks for RAG Evaluation with DataMorgana,</em></a> Simone Filice, Guy Horowitz, David Carmel, Zohar Karnin, Liane Lewin-Eytan and Yoelle Maarek. LLM4Eval Workshop at WSDM'25, March 2025, Hannover, Germany.</li>
 <li class="li3"><a href="https://dl.acm.org/doi/10.1145/3626772.3657834" target="_blank"><em>The Power of Noise: Redefining Retrieval for RAG Systems, </em></a>Florin Cuconasu, Giovanni Trappolini, Federico Siciliano, Simone Filice, Cesare Campagnano, Yoelle Maarek, Nocola Tonellotto, and Fabrizio Silvestri. Proceedings of SIGIR'24, July 2024, Washington DC, USA.</li>
@@ -19,7 +19,7 @@ author_profile: true
 <li class="li3"><em><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3549912">Alexa, let's work together! How Alexa Helps Customers Complete Tasks with Verbal and Visual Guidance in the Alexa Prize TaskBot Challenge,</a></em> Yoelle Maarek. Keynote address in MM'22: Proceedings of the 30th ACM International Conference on Multimedia, Lisboa Portugal October 2022</li>
 <li class="li3"><em><a href="https://arxiv.org/abs/2209.06321">Alexa, let's work together: Introducing the first alexa prize taskbot challenge on conversational task assistance</a></em>
 Anna Gottardi, Osman Ipek, Giuseppe Castellucci, Shui Hu, Lavina Vaz, Yao Lu, Anju Khatri, Anjali Chadha, Desheng Zhang, Sattvik Sahai, Prerna Dwivedi, Hangjie Shi, Lucy Hu, Andy Huang, Luke Dai, Bofei Yang, Varun Somani, Pankaj Rajan, Ron Rezac, Michael Johnston, Savanna Stiff, Leslie Ball, David Carmel, Yang Liu, Dilek Hakkani-Tur, Oleg Rokhlenko, Kate Bland, Eugene Agichtein, Reza Ghanadan and Yoelle Maarek. Proceedings of Alexa Prize Taskbot (Alexa Prize 2021). September 2022</li>
-<li class="li3"><em>Alexa, Do You Want to Build a Snowman? Characterizing Playful Requests to Conversational Agents</em>, Chen Shani, Alexander Libov, Sofia Tolmach, Liane Lewin-Eytan, Yoelle Maarek and Dafna Shahaf. In Proceedings of CHI EA &lsquo;22, April 2022, New Orleans, LA, USA.</li>
+<li class="li3"><em><a href="https://dl.acm.org/doi/abs/10.1145/3491101.3519870">Alexa, Do You Want to Build a Snowman? Characterizing Playful Requests to Conversational Agents</a></em>, Chen Shani, Alexander Libov, Sofia Tolmach, Liane Lewin-Eytan, Yoelle Maarek and Dafna Shahaf. In Proceedings of CHI EA &lsquo;22, April 2022, New Orleans, LA, USA.</li>
 <li class="li3"><em>Why Do People Buy Seemingly Irrelevant Items in Voice Product Search?</em> David Carmel, Elad Haramaty, Arnon Lazerson, Liane Lewin-Eytan and Yoelle Maarek. In Proceedings of WSDM&rsquo;2020, Houston, TX, Jan 2020</li>
 </ol>
 
