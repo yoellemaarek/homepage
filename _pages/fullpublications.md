@@ -66,7 +66,7 @@ Anna Gottardi, Osman Ipek, Giuseppe Castellucci, Shui Hu, Lavina Vaz, Yao Lu, An
 </ol>
 
 <strong>2000-2009</strong>
-<ol class="ol1" style="line-height: 19.6000003814697px;" start="44">
+<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="46">
 <li class="li3"><em>Currents Trends in the Integration of Searching and Browsing,&nbsp;</em>A. Broder, Y. Maarek, K. Bharat, S. Dumais, S. Papa, J. Pedersen and P. Raghavan,&nbsp;<em>.</em>&nbsp;In Industry track at WWW&rsquo;2005, Chiba, Japan, May 2005.&nbsp;&nbsp;</li>
 <li class="li3"><em>Extending the XML Fragment Model to Support Querying over Annotated text,&nbsp;</em>A. Broder, Y.S. Maarek, Y. Mass and M. Mandelbrod. Third Edition of XML and IR Workshop, SIGIR 2004, &nbsp;Sheffield, UK, July 2004.&nbsp;</li>
 <li class="li3"><em>Using XML to Query XML,&nbsp;</em>A. Broder, Y. Maarek, M. Mandelbrod and Y. Mass. RIAO&rsquo;04, Avignon, France, April 2004.&nbsp;</li>
