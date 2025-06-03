@@ -20,7 +20,7 @@ author_profile: true
 <li class="li3"><em><a href="https://arxiv.org/abs/2209.06321">Alexa, let's work together: Introducing the first alexa prize taskbot challenge on conversational task assistance</a></em>
 Anna Gottardi, Osman Ipek, Giuseppe Castellucci, Shui Hu, Lavina Vaz, Yao Lu, Anju Khatri, Anjali Chadha, Desheng Zhang, Sattvik Sahai, Prerna Dwivedi, Hangjie Shi, Lucy Hu, Andy Huang, Luke Dai, Bofei Yang, Varun Somani, Pankaj Rajan, Ron Rezac, Michael Johnston, Savanna Stiff, Leslie Ball, David Carmel, Yang Liu, Dilek Hakkani-Tur, Oleg Rokhlenko, Kate Bland, Eugene Agichtein, Reza Ghanadan and Yoelle Maarek. Proceedings of Alexa Prize Taskbot (Alexa Prize 2021). September 2022</li>
 <li class="li3"><em><a href="https://dl.acm.org/doi/abs/10.1145/3491101.3519870">Alexa, Do You Want to Build a Snowman? Characterizing Playful Requests to Conversational Agents</a></em>, Chen Shani, Alexander Libov, Sofia Tolmach, Liane Lewin-Eytan, Yoelle Maarek and Dafna Shahaf. In Proceedings of CHI EA &lsquo;22, April 2022, New Orleans, LA, USA.</li>
-<li class="li3"><em>Why Do People Buy Seemingly Irrelevant Items in Voice Product Search?</em> David Carmel, Elad Haramaty, Arnon Lazerson, Liane Lewin-Eytan and Yoelle Maarek. In Proceedings of WSDM&rsquo;2020, Houston, TX, Jan 2020</li>
+<li class="li3"><em><a href="https://dl.acm.org/doi/abs/10.1145/3336191.3371780">Why Do People Buy Seemingly Irrelevant Items in Voice Product Search?</a></em> David Carmel, Elad Haramaty, Arnon Lazerson, Liane Lewin-Eytan and Yoelle Maarek. In Proceedings of WSDM&rsquo;2020, Houston, TX, Jan 2020</li>
 </ol>
 
 <strong>2010-2019</strong>
