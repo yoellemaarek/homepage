@@ -62,8 +62,9 @@ author_profile: true
 <li class="li3"><em>Let me know what you know,&nbsp;V. Soroka, M. Jacovi and Y. Maarek.</em>&nbsp;In &ldquo;Peer-to-peer computing: The evolution of a disruptive technology&rdquo;, R. Subramanian and B. Goodman eds., 2005.</li>
 <li class="li3"><em>Xeena for schema: creating XML documents with a coordinated grammar tree,&nbsp;</em>M. Sifer, F. Dau, H. Hasan, K. Crawford, Y.Peres and Y. Maarek.&nbsp;Int. J. Computational Science and Engineering, Vol. 5, No. 2, pp.127&ndash;146, 2010.</li>
 </ol>
+
 <strong>2000-2009</strong>
-<ol class="ol1" style="line-height: 19.6000003814697px;" start="7">
+<ol class="ol1" style="line-height: 19.6000003814697px;" start="44">
 <li class="li3"><em>Currents Trends in the Integration of Searching and Browsing,&nbsp;</em>A. Broder, Y. Maarek, K. Bharat, S. Dumais, S. Papa, J. Pedersen and P. Raghavan,&nbsp;<em>.</em>&nbsp;In Industry track at WWW&rsquo;2005, Chiba, Japan, May 2005.&nbsp;&nbsp;</li>
 <li class="li3"><em>Extending the XML Fragment Model to Support Querying over Annotated text,&nbsp;</em>A. Broder, Y.S. Maarek, Y. Mass and M. Mandelbrod. Third Edition of XML and IR Workshop, SIGIR 2004, &nbsp;Sheffield, UK, July 2004.&nbsp;</li>
 <li class="li3"><em>Using XML to Query XML,&nbsp;</em>A. Broder, Y. Maarek, M. Mandelbrod and Y. Mass. RIAO&rsquo;04, Avignon, France, April 2004.&nbsp;</li>
@@ -85,6 +86,9 @@ author_profile: true
 <li class="li3"><em>XML and Information Retrieval</em>, Workshop Report, D. Carmel, Y. Maarek and A. Soffer. In SIGIR Forum, Fall 2000, Volume 34 Number 1. Also in SIGMOD Record: Volume 30, No 1, March 2001.</li>
 <li class="li3"><em>Allowing users to weight search terms,&nbsp;</em>Ronald Fagin and Yoelle S Maarek. RIAO&rsquo;2000, Paris, France, Apr 2000.&nbsp;</li>
 <li class="li3"><em>Knowledge Agents on the Web,&nbsp;</em>Yariv Aridor, David Carmel, Ronny Lempel, Aya Soffer and Yoelle S. Maarek&nbsp;<em>.</em>&nbsp;CIA&rsquo;2000, Boston, MA, Jul 2000. Also appeared in &ldquo;Lecture Notes in Artificial Intelligence&rdquo; 1860, Klush and Kerschberg eds., Springer, July 2000, pp 15-26.&nbsp;&nbsp;</li>
+</ol>
+<strong>2000-2009</strong>
+<ol class="ol1" style="line-height: 19.6000003814697px;" start="44">
 <li class="li3"><em>Morphological Disambiguation for Hebrew Search Systems,&nbsp;</em>David Carmel and Yoelle Maarek. NGITS&rsquo;99, Zikhron-Yaakov, Israel, July 1999.&nbsp;</li>
 <li class="li3"><em>Adding Support for Dynamic and Focused Search with Fetuccino,&nbsp;</em>I. Ben-Shaul, M. Herscovici, M. Jacovi, Y.S. Maarek, D. Pelleg, M. Shtalhaim, V. Soroka and S. Ur. WWW8, Toronto, Canada, May 1999.&nbsp;</li>
 <li class="li3"><em>The Shark-Search Algorithm: An Application Web Site Mapping,&nbsp;</em>M. Herscovici, M. Jacovi, Y.S. Maarek, D. Pelleg, M. Shtalhaim and S. Ur.&nbsp; WWW7, Brisbane, Australia, April 1998.&nbsp;</li>
