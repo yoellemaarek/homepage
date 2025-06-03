@@ -24,7 +24,7 @@ Anna Gottardi, Osman Ipek, Giuseppe Castellucci, Shui Hu, Lavina Vaz, Yao Lu, An
 </ol>
 
 <strong>2010-2019</strong>
-<ol class="ol1" style="line-height: 19.6000003814697px;" start="84">
+<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="84">
 <li class="li3"><em>Alexa, Can You Help Me Shop?</em> Yoelle Maarek. Invited talk in Industry Track.&nbsp; In Proceedings of SIGIR'2019, July 2019, Paris, France</li>
 <li class="li3"><em>Alexa and her Shopping Journey</em>, Keynote Address, Yoelle Maarek. In Proceedings of CIKM&rsquo;2018, Turin, Italy, October 2018.</li>
 <li class="li3"><em><a href="http://glare2018.dei.unipd.it/paper/glare2018-paper4.pdf">Offline vs. online evaluation in voice product search,</a></em>, Amir Ingber, Liane Lewin-Eytan, Alexander Libov, Yoelle Maarek and Eliyahu Osherovich. In Proc. 1st International Workshop on Generalization in Information Retrieval (GLARE 2018),Turin, Italy, October 2018.</li>
