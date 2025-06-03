@@ -9,9 +9,6 @@ author_profile: true
   <div class="wordwrap">You can find a full list of my publications and patents in <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<BR>
-<p><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 15px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; vertical-align: baseline; color: #4c4c4c; line-height: 24px;">PUBLICATIONS</strong></p>
-
 <strong>2020-todate</strong>
 <ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="91">
 <li class="li3"><a href="https://arxiv.org/abs/2505.15561"><em>Do RAG Systems Suffer From Positional Bias?</em></a> Florin Cuconasu, Simone Filice, Guy Horowitz, Yoelle Maarek and Fabrizio Silvestri. arXiv preprint, May 2024. </li>
@@ -20,6 +17,8 @@ author_profile: true
 <li class="li3"><em><a href="https://dl.acm.org/doi/10.1145/3626772.3657935" target="_blank">Old IR meets RAG</a></em>,&nbsp;Oz Huly, Idan Pogrebunsky, David Carmel, Oren Kurland and Yoelle Maarek. Short Paper in Proceedings of SIGIR'24, July 2024, Washington DC, USA.</li>
 <li class="li3"><em><a href="https://dl.acm.org/doi/abs/10.1145/3604915.3608836">Extended conversion: Capturing successful interactions in voice shopping,</a></em> Elad Haramaty, Zohar Karnin, Arnon Lazerson, Liane Lewin-Eytan and Yoelle Maarek. RecSys&rsquo;2023, Sept 2023, Singapore.</li>
 <li class="li3"><em><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3549912">Alexa, let's work together! How Alexa Helps Customers Complete Tasks with Verbal and Visual Guidance in the Alexa Prize TaskBot Challenge,</a></em> Yoelle Maarek. Keynote address in MM'22: Proceedings of the 30th ACM International Conference on Multimedia, Lisboa Portugal October 2022</li>
+<li class="li3"><em><a href="https://arxiv.org/abs/2209.06321">Alexa, let's work together: Introducing the first alexa prize taskbot challenge on conversational task assistance</em></a>
+Anna Gottardi, Osman Ipek, Giuseppe Castellucci, Shui Hu, Lavina Vaz, Yao Lu, Anju Khatri, Anjali Chadha, Desheng Zhang, Sattvik Sahai, Prerna Dwivedi, Hangjie Shi, Lucy Hu, Andy Huang, Luke Dai, Bofei Yang, Varun Somani, Pankaj Rajan, Ron Rezac, Michael Johnston, Savanna Stiff, Leslie Ball, David Carmel, Yang Liu, Dilek Hakkani-Tur, Oleg Rokhlenko, Kate Bland, Eugene Agichtein, Reza Ghanadan and Yoelle Maarek. Proceedings of Alexa Prize Taskbot (Alexa Prize 2021). September 2022</li>
 <li class="li3"><em>Alexa, Do You Want to Build a Snowman? Characterizing Playful Requests to Conversational Agents</em>, Chen Shani, Alexander Libov, Sofia Tolmach, Liane Lewin-Eytan, Yoelle Maarek and Dafna Shahaf. In Proceedings of CHI EA &lsquo;22, April 2022, New Orleans, LA, USA.</li>
 <li class="li3"><em>Why Do People Buy Seemingly Irrelevant Items in Voice Product Search?</em> David Carmel, Elad Haramaty, Arnon Lazerson, Liane Lewin-Eytan and Yoelle Maarek. In Proceedings of WSDM&rsquo;2020, Houston, TX, Jan 2020</li>
 </ol>
