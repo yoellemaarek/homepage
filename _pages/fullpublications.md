@@ -12,7 +12,7 @@ author_profile: true
 <BR>
 <p><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 15px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; vertical-align: baseline; color: #4c4c4c; line-height: 24px;">FULL PUBLICATIONS</strong></p>
 
-<bold>2020-todate</bold>
+<strong>2020-todate</strong>
 <ol class="ol1" style="line-height: 19.6000003814697px;">
 <li class="li3"><a href="https://arxiv.org/abs/2501.12789" target="_blank"><em>Generating Diverse Q&A Benchmarks for RAG Evaluation with DataMorgana,</em></a> Simone Filice, Guy Horowitz, David Carmel, Zohar Karnin, Liane Lewin-Eytan and Yoelle Maarek. LLM4Eval Workshop at WSDM'25, March 2025, Hannover, Germany.</li>
 <li class="li3"><a href="https://dl.acm.org/doi/10.1145/3626772.3657834" target="_blank"><em>The Power of Noise: Redefining Retrieval for RAG Systems, </em></a>Florin Cuconasu, Giovanni Trappolini, Federico Siciliano, Simone Filice, Cesare Campagnano, Yoelle Maarek, Nocola Tonellotto, and Fabrizio Silvestri. Proceedings of SIGIR'24, July 2024, Washington DC, USA.</li>
@@ -20,7 +20,7 @@ author_profile: true
 <li class="li3"><em>Extended conversion: Capturing successful interactions in voice shopping,</em> Elad Haramaty, Zohar Karnin, Arnon Lazerson, Liane Lewin-Eytan and Yoelle Maarek. RecSys&rsquo;2023, Sept 2023, Singapore.</li>
 <li class="li3"><em>Alexa, Do You Want to Build a Snowman? Characterizing Playful Requests to Conversational Agents</em>, Chen Shani, Alexander Libov, Sofia Tolmach, Liane Lewin-Eytan, Yoelle Maarek and Dafna Shahaf. In Proceedings of CHI EA &lsquo;22, April 2022, New Orleans, LA, USA.</li>
 <li class="li3"><em>Why Do People Buy Seemingly Irrelevant Items in Voice Product Search?</em> David Carmel, Elad Haramaty, Arnon Lazerson, Liane Lewin-Eytan and Yoelle Maarek. In Proceedings of WSDM&rsquo;2020, Houston, TX, Jan 2020</li>
-<\ol>
+</ol>
 
 <ol class="start=7">
 <li class="li3"><em>Alexa, Can You Help Me Shop?</em> Yoelle Maarek. Invited talk in Industry Track.&nbsp; In Proceedings of SIGIR'2019, July 2019, Paris, France</li>
