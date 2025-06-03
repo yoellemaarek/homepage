@@ -91,7 +91,7 @@ Anna Gottardi, Osman Ipek, Giuseppe Castellucci, Shui Hu, Lavina Vaz, Yao Lu, An
 </ol>
 
 <strong>1987-1999</strong>
-<ol class="ol1" style="line-height: 19.6000003814697px;" start="65">
+<ol reversed class="ol1" style="line-height: 19.6000003814697px;" start="25">
 <li class="li3"><em>Morphological Disambiguation for Hebrew Search Systems,&nbsp;</em>David Carmel and Yoelle Maarek. NGITS&rsquo;99, Zikhron-Yaakov, Israel, July 1999.&nbsp;</li>
 <li class="li3"><em>Adding Support for Dynamic and Focused Search with Fetuccino,&nbsp;</em>I. Ben-Shaul, M. Herscovici, M. Jacovi, Y.S. Maarek, D. Pelleg, M. Shtalhaim, V. Soroka and S. Ur. WWW8, Toronto, Canada, May 1999.&nbsp;</li>
 <li class="li3"><em>The Shark-Search Algorithm: An Application Web Site Mapping,&nbsp;</em>M. Herscovici, M. Jacovi, Y.S. Maarek, D. Pelleg, M. Shtalhaim and S. Ur.&nbsp; WWW7, Brisbane, Australia, April 1998.&nbsp;</li>
