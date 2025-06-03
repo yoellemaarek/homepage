@@ -13,7 +13,7 @@ author_profile: true
 <p><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 15px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; vertical-align: baseline; color: #4c4c4c; line-height: 24px;">PUBLICATIONS</strong></p>
 
 <strong>2020-todate</strong>
-<ol class="ol1" style="line-height: 19.6000003814697px;">
+<ol reversed class="ol1" style="line-height: 19.6000003814697px;">
 <li class="li3"><a href="https://arxiv.org/abs/2505.15561"><em>Do RAG Systems Suffer From Positional Bias?</em></a> Florin Cuconasu, Simone Filice, Guy Horowitz, Yoelle Maarek and Fabrizio Silvestri. arXiv preprint, May 2024. </li>
 <li class="li3"><a href="https://arxiv.org/abs/2501.12789" target="_blank"><em>Generating Diverse Q&A Benchmarks for RAG Evaluation with DataMorgana,</em></a> Simone Filice, Guy Horowitz, David Carmel, Zohar Karnin, Liane Lewin-Eytan and Yoelle Maarek. LLM4Eval Workshop at WSDM'25, March 2025, Hannover, Germany.</li>
 <li class="li3"><a href="https://dl.acm.org/doi/10.1145/3626772.3657834" target="_blank"><em>The Power of Noise: Redefining Retrieval for RAG Systems, </em></a>Florin Cuconasu, Giovanni Trappolini, Federico Siciliano, Simone Filice, Cesare Campagnano, Yoelle Maarek, Nocola Tonellotto, and Fabrizio Silvestri. Proceedings of SIGIR'24, July 2024, Washington DC, USA.</li>
