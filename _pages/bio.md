@@ -16,4 +16,5 @@ She obtained a PhD in Computer Science from the Technion, Israel in 1989, holds 
 
 Yoelle has been serving in the most senior roles at top research conferences, such as SIGIR, WWW/TheWebConference and WSDM. She is a member of the Technion Board of Governors and was inducted as an ACM Fellow in 2013. She was elected as an inaugural member of the SIGIR Academy and as a member of the US National Academy of Engineering in 2021.
 		
-
+## Downloadable picture
+<A HREF="/images/yoelle-maarek-pic.jpg">Profile picture</A> that can be freely downloaded!
