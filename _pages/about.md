@@ -11,5 +11,5 @@ I am serving today as the Chief Researcher of the  AI/IR organization at the Tec
 
 
 ## Recent news:
-* We just finished running the [SIGIR'2025 LiveRAG Challenge](https://liverag.tii.ae) and results will soon be out!
+* We finished running the [SIGIR'2025 LiveRAG Challenge](https://liverag.tii.ae) and announced the results on July 17, 2025 at the [SIGIR'2025 conference!](https://sigir2025.dei.unipd.it/live-rag-challenge.html) in Padua, Italy.
 * With my colleague at TII, Dr Hakim Hacid, we are chairing the Web Conference'2026 that will take place in Dubai next year. 
